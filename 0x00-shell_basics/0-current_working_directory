@@ -1,2 +1,1 @@
-#!/bin/bash 
- pwd
+A script to display the current path
