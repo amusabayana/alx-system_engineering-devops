@@ -1,3 +1,4 @@
 #!/bin/bash
-awk 'NR==13' iacta
+head -13 lacta | tail -13 lacta
+
 
