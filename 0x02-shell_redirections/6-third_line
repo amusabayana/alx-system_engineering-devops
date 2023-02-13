@@ -1,4 +1,4 @@
 #!/bin/bash
-head -13 lacta | tail -13 lacta
+head -3 lacta | tail +3 lacta
 
 
